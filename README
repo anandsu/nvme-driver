@@ -1,0 +1,8 @@
+
+1. Assumes 963 Samsung NVMe SSD devices at the backend
+
+2. 4K bytes within each LBA
+
+3. Can use any characters in an object name that can be 'URL-encoded' ; maximum length of a name is 1034 characters after URL-encoding.
+
+4.
